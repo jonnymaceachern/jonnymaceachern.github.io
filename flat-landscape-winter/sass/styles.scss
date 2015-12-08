@@ -90,3 +90,11 @@ $parallax__layers: 6;
     display: inline-block;
   }
 }
+
+#credit {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 15px 30px;
+  z-index: 1000;
+}

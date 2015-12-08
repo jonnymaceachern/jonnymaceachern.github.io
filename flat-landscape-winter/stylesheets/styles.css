@@ -121,3 +121,12 @@ body {
   margin-right: 7px;
   display: inline-block;
 }
+
+/* line 94, ../sass/styles.scss */
+#credit {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 15px 30px;
+  z-index: 1000;
+}
