@@ -67,3 +67,26 @@ $parallax__layers: 6;
   z-index: 1;
   pointer-events: none;
 }
+
+#page-content {
+  color: #fff;
+
+  h1 {
+    font-size: 25px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+}
+
+
+.social {
+  padding: 15px 30px;
+  position: relative;
+  z-index: 100;
+  .social-link {
+    margin-right: 7px;
+    display: inline-block;
+  }
+}

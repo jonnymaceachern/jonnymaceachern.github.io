@@ -96,3 +96,28 @@ body {
   z-index: 1;
   pointer-events: none;
 }
+
+/* line 71, ../sass/styles.scss */
+#page-content {
+  color: #fff;
+}
+/* line 74, ../sass/styles.scss */
+#page-content h1 {
+  font-size: 25px;
+}
+/* line 78, ../sass/styles.scss */
+#page-content p {
+  font-size: 15px;
+}
+
+/* line 84, ../sass/styles.scss */
+.social {
+  padding: 15px 30px;
+  position: relative;
+  z-index: 100;
+}
+/* line 88, ../sass/styles.scss */
+.social .social-link {
+  margin-right: 7px;
+  display: inline-block;
+}
